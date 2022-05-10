@@ -1,4 +1,4 @@
-# Desaroollo de Páginas Web
+# Desarollo de Páginas Web
 Creación y maquetación de páginas web con dos de los tres estandares web
 
 ## HTML
