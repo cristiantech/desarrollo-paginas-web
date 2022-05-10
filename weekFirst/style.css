@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    
+}
+.main-nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.main-nav__item{
+    list-style: none;
+}
+.main-nav__item a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 3px;
+    /* background-color: red; */
+}
+/* pseudoclase */
+.main-nav__item a:hover{
+    color: aqua;
+}
+.main-nav__item a:active{
+    color: red;
+}
+/* PseudoElemento */
+.main-nav__item a::after{
+    content: " | ";
+}
+
+
+section{
+    width: 100%;
+    height: 500px;
+    border: 10px solid gray;
+    background-color: aqua;
+    padding: 35px 50px;
+}
