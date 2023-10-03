@@ -12,7 +12,25 @@ En el mundo del desarrollo de páginas web. En la era digital actual, las págin
 
 + ***Seguridad web***: La seguridad web es crítica para proteger los datos y la privacidad de los usuarios. Se deben implementar prácticas de seguridad como HTTPS y protección contra ataques.
 
-### HTML
-Hyper text markup language
-Permite la estructuración, esqueleto o maquetación semantica.
+### PEA (programa de estudio academico)
+|id|Tema|Cotenido|
+|------|------|-------|
+|1|introduccion a la web|- Conceptos básicos de la programación web, historia y devTools|
+|2|Fundamentos del desarrollo web|-Frontend. - Backend. - FullStack|
+|3|Estandar HTML|- Antonimia de una página web. - Etiquetas. - Multimedia|
+|4|Estandar CSS|- Introducción a CSS. - Interacción de selectores.|
+|5|Estandar CSS - Herencia|- Introducción a la herencia, especificidad y Combinadores dentro del estándar de CSS|
+|6|Estandar CSS - Flex/Grid|- Posicionamiento y orientación de etiquetas con Position y Display |
+|7|Responsive Meida-Query|- Patrones de maquetación.|
+|8|Accesibilidad|- Tecnologías Asistivas Semántica y Textos|
+
+### Rubrica de evaluación 
+Estimado estudiante, te instamos a que tengas en cuenta la rúbrica de evaluación con el fin de evitar cualquier inconveniente. Esta rúbrica te proporcionará una guía clara y detallada sobre los criterios que se utilizarán para evaluar tus trabajos y tareas.
+
+  |Criterio|	Puntuació succesfull | Puntuació warning - danger|
+  |--------|------------|----------|
+  |Subir ejercicios a GitHub|	2 puntos| 0.1 punto |
+  |Entrega a tiempo	| 1 punto |0.5 / 0.1 puntos |
+  |Funciona la aplicación	| 5 puntos | 3 / 0.1 puntos |
+  |Documenta la aplicación	| 2 puntos | 0.1 puntos |
 
